@@ -1,8 +1,8 @@
 # 🌾 Agriculture
 
-A comprehensive agricultural data repository providing insights into farming, soil types, crop production, and environmental factors for sustainable agriculture development.
+ A full database about agriculture. 
 
-## 📊 What's Inside
+ What's Inside
 
 This project contains extensive datasets and resources covering:
 
@@ -52,19 +52,3 @@ The project includes a fully normalized SQL database with tables for:
 - **Time Period**: Historical agricultural data (1972-2022)
 - **Geographic Scope**: All 64 districts of Bangladesh
 - **Categories**: 12+ agricultural subsectors and domains
-
-## 💡 Contributing
-
-We welcome contributions! Feel free to:
-- Enhance datasets
-- Improve documentation
-- Share agricultural insights
-- Suggest new data sources
-
-## 📧 Contact & Support
-
-For questions or suggestions regarding this agricultural database, please open an issue or reach out.
-
----
-
-**🌏 Empowering Agriculture Through Data** 🌾
