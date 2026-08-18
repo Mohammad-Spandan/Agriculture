@@ -1,0 +1,21 @@
+Crop_Number,Crop_Name,Sowing_Period,Harvesting_Period,Seeds_Per_Acre,Urea_Per_Acre,TSP_Per_Acre,MP_Per_Acre
+1,Aus Paddy,Mid March - Mid April,Mid July - August,"28-37 kg (broadcasting); 14-19 kg (live sowing)",1 Md 5 Srs,1 Md 5 Srs,17 Srs
+2,Broadcast Aman Paddy,Mid March - Mid April,Mid Nov - Mid Dec,33-37 kg,33 Srs,33 Srs,16 Srs
+3,Transplanted Aman,Late June - Sept,December - January,9-11 kg,1 Md 5 Srs,1 Md 5 Srs,17 Srs
+4,Local Boro Paddy,Mid Nov - Mid Jan,April - May,8-11 kg,1 Md 5 Srs,1 Md 5 Srs,17 Srs
+5,High Yielding Boro Paddy,December - Mid Feb,Mid April - June,8-11 kg,2 Mds 25 Srs,2 Mds,1 Md 10 Srs
+6,Wheat,Nov - December,March - Mid April,28-33 kg (without irrigation),1 Md,20 Srs,15 Srs
+7,White Jute,Early March - Mid April,July - August,4-5 kg,1 Md 5 Srs,11 Srs,16 Srs
+8,Tossa Jute,Mid April - Early May,August - September,4-5 kg,1 Md 5 Srs,11 Srs,16 Srs
+9,Mesta Jute,April - May,October - Nov,4-5 kg,1 Md 5 Srs,11 Srs,16 Srs
+10,Masur,Mid Oct - Mid Nov,Beginning Feb - Early March,11-14 kg,30 Srs,1 Md 15 Srs,20 Srs
+11,Khesari,Mid Oct - Mid Dec,Mid Feb - Mid April,9-11 kg,30 Srs,1 Md,20 Srs
+12,Bhadoi Chillies,Mid April - Mid July,3-4 months after sowing,1 kg (seeds),,, 
+13,Rabi Chillies,Mid Nov - Mid January,3-4 months after sowing,~100 grams (seedling raised),,,
+14,Onion,Beginning Oct - Early Dec,Late April - Mid June,"2-3 kg (seeds); 2-3 Gl (bulb)",,,
+15,Turmeric,Mid April - Mid June,Mid Dec - Mid March,8-11 kg,,,
+16,Ginger,Mid March - Mid May,Mid Dec - Mid March,8-11 kg,,,
+17,Coriander,Oct - Dec,Mid Feb - Mid March,6-8 kg,,,
+18,Potato,Mid Sept - Nov,Mid January - March,4-6 Ql (tuber),3 Mds,2 Mds,3 Mds
+19,Sugarcane,Early Mid Oct - Mid December,Mid Oct - Mid April,19 Ql (cuttings),3 Mds,3 Mds,2 Mds
+20,Tobacco,Mid Oct - Mid Dec,Mid Feb - Mid April,23-35 grams,36 Srs,22 Srs,35 Srs

@@ -1,0 +1,31 @@
+SL,Zone_Name,Area_sqkm,Soil_Type_No,Soil_Type_Name,Sand_pct,Alluvium_pct,Clay_pct
+1,Old Himalayan Piedmont Plain,4008,1,Non-calcareous brown,10,82,8
+2,Tista Active,836,2,Non-calcareous alluvium,41,59,0
+3,Tista Meander Floodplain,9468,3,Non-calcareous grey,6,88,6
+4,Korotoya Bangali Floodplain,2572,3,Non-calcareous grey,8,65,27
+5,Lower Atrai Basin,851,4,Non-calcareous dark grey,0,16,84
+6,Lower Punarbhaba Floodplain,129,5,Acid basin clays,0,0,100
+7,Active Brahmaputra Jamuna Floodplain,3190,2,Non-calcareous alluvium,27,72,1
+8,Young Brahmaputra-Jamuna Floodplain,5924,3,Non-calcareous grey,6,79,15
+9,Old Brahmaputra Floodplain,7230,4,Non-calcareous dark grey,2,51,47
+10,Active Ganges Floodplain,3334,6,Calcareous alluvium,8,80,12
+11,High Ganges Floodplain,13205,4,Non-calcareous dark grey,1,51,48
+12,Lower Ganges Floodplain,7968,4,Non-calcareous dark grey,0,48,52
+13,Ganges Tidal Floodplain,17066,3,Non-calcareous grey,0,17,83
+14,Gopalganj Khulna Beels,2247,4,Non-calcareous dark grey,0,15,57
+15,Arial Beel,144,4,Non-calcareous dark grey,0,8,92
+16,Middle Meghna Floodplain,1555,3,Non-calcareous grey,14,59,27
+17,Lower Meghna Floodplain,909,7,Calcareous grey,0,50,50
+18,Young Meghna Estuarine Floodplain,9269,6,Calcareous alluvium,0,98,2
+19,Old Meghna Estuarine Floodplain,7740,3,Non-calcareous grey,0,90,10
+20,Eastern Surma Kushiyara Floodplain,4622,3,Non-calcareous grey,1,25,74
+21,Sylhet Basin,4573,3,Non-calcareous grey,1,12,87
+22,Northern & Eastern Piedmont Plains,4038,5,Acid basin clays,4,4,51
+23,Chattogram Coastal Plain,3720,3,Non-calcareous grey,3,82,15
+24,St. Martin Coral Island,8,8,Calcareous alluvium (non-saline),96,2,0
+25,Level Barind Tract,5049,9,Shallow grey terrace,0,3,97
+26,High Barind Tract,1600,10,Deep grey terrace,0,13,87
+27,North Eastern Barind Tract,1076,10,Deep grey terrace,0,2,98
+28,Madhupur Tract,4244,9,Shallow grey terrace,0,13,87
+29,North and Eastern Hills,18171,11,Brown hill,9,67,4
+30,Akhaura Terrace,113,12,Deep red-brown terrace,0,31,63

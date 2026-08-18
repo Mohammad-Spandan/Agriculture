@@ -1,0 +1,35 @@
+SL,River_System,River_Name,Branch_Location,Length_Miles,Length_Km
+1,Major Rivers,Brahmaputra-Jamuna,Nageshwari to Goalanda,143,230
+2,Major Rivers,Padma,Border at Godagari to Aricha confluence,143,230
+3,Major Rivers,Padma,Ganges-Brahmaputra confluence to Padma-Meghna confluence at Chandpur,75,121
+4,Major Rivers,Surma-Meghna Upper,Border to Chandpur,313,505
+5,Major Rivers,Meghna Lower,Chandpur to tip of Bhola,40,65
+6,Major Rivers,Karnaphuli,Border in India to Bay of Bengal at South Patenga (excl. Kaptai Lake),89,144
+7,Padma-Ganges System,Ganges-Padma,Entry point to Chandpur,218,351
+8,Padma-Ganges System,Mathabhanga,,101,163
+9,Padma-Ganges System,Ichamati,Manikganj,32,52
+10,Padma-Ganges System,Ichamati,Dinajpur,22,36
+11,Padma-Ganges System,Ichamati,Chattogram & Rangamati,27,43
+12,Padma-Ganges System,Ichamati-Kalindi,,180,291
+13,Padma-Ganges System,Ichamati,Bogura,44,71
+14,Padma-Ganges System,Bhairab,,139,224
+15,Padma-Ganges System,Kumar,Chuadanga / Jhenaidah / Magura,87,141
+16,Padma-Ganges System,Kumar,Faridpur-Gopalganj,48,77
+17,Padma-Ganges System,Kumar Upper,Madaripur,13,21
+18,Padma-Ganges System,Kumar Lower,Madaripur,17,28
+19,Padma-Ganges System,Kapotakshi,,157,253
+20,Padma-Ganges System,Chitra,Chuadanga,106,171
+21,Padma-Ganges System,Chatra,,14,23
+22,Padma-Ganges System,Nabaganga,,124,200
+23,Padma-Ganges System,Garai-Madhumati,,156,251
+24,Padma-Ganges System,Arial Khan,,95,154
+25,Meghna-Surma System,Meghna Upper,,97,156
+26,Meghna-Surma System,Meghna Lower,,40,65
+27,Meghna-Surma System,Surma,,155,250
+28,Meghna-Surma System,Kushiyara,,156,251
+29,Meghna-Surma System,Kalni,,20,32
+30,Jamuna-Brahmaputra System,Teesta,,71,115
+31,Jamuna-Brahmaputra System,Old Brahmaputra,,179,288
+32,Jamuna-Brahmaputra System,Dhaleshwari,,114,184
+33,Jamuna-Brahmaputra System,Buriganga,,18,29
+34,North West Region,Nagar,,,

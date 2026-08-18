@@ -1,0 +1,362 @@
+Year,Crop_Name,Crop_Category,Area_000ac,Production,Production_Unit
+2010-11,Rice,Major Crops,28489,33542,000Mton
+2011-12,Rice,Major Crops,28487,33889,000Mton
+2012-13,Rice,Major Crops,28228,33833,000Mton
+2013-14,Rice,Major Crops,28101,34357,000Mton
+2014-15,Rice,Major Crops,28209,34710,000Mton
+2015-16,Rice,Major Crops,28123,34710,000Mton
+2016-17,Rice,Major Crops,27184,33804,000Mton
+2017-18,Rice,Major Crops,28699,36278,000Mton
+2018-19,Rice,Major Crops,28456,36391,000Mton
+2019-20,Rice,Major Crops,28213,36604,000Mton
+2020-21,Rice,Major Crops,28913,37608,000Mton
+2021-22,Rice,Major Crops,28892,38143,000Mton
+2022-23,Rice,Major Crops,28755,39095,000Mton
+2023-24,Rice,Major Crops,28820,40697,000Mton
+2010-11,Jute,Major Crops,1751,1523,000Bales
+2011-12,Jute,Major Crops,1878,1452,000Bales
+2012-13,Jute,Major Crops,1683,7611,000Bales
+2013-14,Jute,Major Crops,1645,7436,000Bales
+2014-15,Jute,Major Crops,1662,7501,000Bales
+2015-16,Jute,Major Crops,1675,7554,000Bales
+2016-17,Jute,Major Crops,1823,8247,000Bales
+2017-18,Jute,Major Crops,1874,8895,000Bales
+2018-19,Jute,Major Crops,1852,8576,000Bales
+2019-20,Jute,Major Crops,1679,8045,000Bales
+2020-21,Jute,Major Crops,1686,7725,000Bales
+2021-22,Jute,Major Crops,1783,8432,000Bales
+2022-23,Jute,Major Crops,1804,8458,000Bales
+2023-24,Jute,Major Crops,1788,9582,000Bales
+2010-11,Sugarcane,Major Crops,287,4671,000Mton
+2011-12,Sugarcane,Major Crops,266,4603,000Mton
+2012-13,Sugarcane,Major Crops,270,4469,000Mton
+2013-14,Sugarcane,Major Crops,265,4508,000Mton
+2014-15,Sugarcane,Major Crops,258,4434,000Mton
+2015-16,Sugarcane,Major Crops,243,4208,000Mton
+2016-17,Sugarcane,Major Crops,227,3863,000Mton
+2017-18,Sugarcane,Major Crops,223,3639,000Mton
+2018-19,Sugarcane,Major Crops,207,3203,000Mton
+2019-20,Sugarcane,Major Crops,213,3683,000Mton
+2020-21,Sugarcane,Major Crops,192,3333,000Mton
+2021-22,Sugarcane,Major Crops,179,3087,000Mton
+2022-23,Sugarcane,Major Crops,172,2983,000Mton
+2023-24,Sugarcane,Major Crops,167,2934,000Mton
+2010-11,Tea,Major Crops,140,133380,000lbs
+2011-12,Tea,Major Crops,143,133379,000lbs
+2012-13,Tea,Major Crops,144,139994,000lbs
+2013-14,Tea,Major Crops,148,145728,000lbs
+2014-15,Tea,Major Crops,149,145727,000lbs
+2015-16,Tea,Major Crops,148,142198,000lbs
+2016-17,Tea,Major Crops,133,,000lbs
+2017-18,Tea,Major Crops,133,,000lbs
+2018-19,Tea,Major Crops,133,,000lbs
+2019-20,Tea,Major Crops,147,,000lbs
+2020-21,Tea,Major Crops,136,,000lbs
+2021-22,Tea,Major Crops,140,,000lbs
+2022-23,Tea,Major Crops,141,,000lbs
+2023-24,Tea,Major Crops,145,,000lbs
+2010-11,Pulses,Major Crops,627,232,000Mton
+2011-12,Pulses,Major Crops,667,240,000Mton
+2012-13,Pulses,Major Crops,701,265,000Mton
+2013-14,Pulses,Major Crops,824,352,000Mton
+2014-15,Pulses,Major Crops,885,378,000Mton
+2015-16,Pulses,Major Crops,922,378,000Mton
+2016-17,Pulses,Major Crops,901,387,000Mton
+2017-18,Pulses,Major Crops,897,390,000Mton
+2018-19,Pulses,Major Crops,866,378,000Mton
+2019-20,Pulses,Major Crops,882,398,000Mton
+2020-21,Pulses,Major Crops,919,425,000Mton
+2021-22,Pulses,Major Crops,926,432,000Mton
+2022-23,Pulses,Major Crops,880,439,000Mton
+2023-24,Pulses,Major Crops,858,429,000Mton
+2010-11,Oilseeds,Major Crops,924,730,000Mton
+2011-12,Oilseeds,Major Crops,972,787,000Mton
+2012-13,Oilseeds,Major Crops,1009,804,000Mton
+2013-14,Oilseeds,Major Crops,1065,844,000Mton
+2014-15,Oilseeds,Major Crops,1124,934,000Mton
+2015-16,Oilseeds,Major Crops,1125,934,000Mton
+2016-17,Oilseeds,Major Crops,1197,975,000Mton
+2017-18,Oilseeds,Major Crops,1122,1026,000Mton
+2018-19,Oilseeds,Major Crops,1088,954,000Mton
+2019-20,Oilseeds,Major Crops,1183,972,000Mton
+2020-21,Oilseeds,Major Crops,1235,996,000Mton
+2021-22,Oilseeds,Major Crops,1235,1034,000Mton
+2022-23,Oilseeds,Major Crops,1283,1143,000Mton
+2023-24,Oilseeds,Major Crops,1541,1258,000Mton
+2010-11,Condiments,Major Crops,795,1649,000Mton
+2011-12,Condiments,Major Crops,1042,1880,000Mton
+2012-13,Condiments,Major Crops,784,1722,000Mton
+2013-14,Condiments,Major Crops,855,2043,000Mton
+2014-15,Condiments,Major Crops,924,2409,000Mton
+2015-16,Condiments,Major Crops,987,2488,000Mton
+2016-17,Condiments,Major Crops,1018,2675,000Mton
+2017-18,Condiments,Major Crops,1007,2596,000Mton
+2018-19,Condiments,Major Crops,994,2671,000Mton
+2019-20,Condiments,Major Crops,1046,2997,000Mton
+2020-21,Condiments,Major Crops,1061,3593,000Mton
+2021-22,Condiments,Major Crops,1054,4015,000Mton
+2022-23,Condiments,Major Crops,1076,4117,000Mton
+2023-24,Condiments,Major Crops,1087,4557,000Mton
+2010-11,Tobacco,Major Crops,121,79,000Mton
+2011-12,Tobacco,Major Crops,126,85,000Mton
+2012-13,Tobacco,Major Crops,124,181,000Mton
+2013-14,Tobacco,Major Crops,124,85,000Mton
+2014-15,Tobacco,Major Crops,127,94,000Mton
+2015-16,Tobacco,Major Crops,115,88,000Mton
+2016-17,Tobacco,Major Crops,115,88,000Mton
+2017-18,Tobacco,Major Crops,105,89,000Mton
+2018-19,Tobacco,Major Crops,94,82,000Mton
+2019-20,Tobacco,Major Crops,100,86,000Mton
+2020-21,Tobacco,Major Crops,100,89,000Mton
+2021-22,Tobacco,Major Crops,100,92,000Mton
+2022-23,Tobacco,Major Crops,93,87,000Mton
+2023-24,Tobacco,Major Crops,101,98,000Mton
+2007-08,Maize,Cereals,553,1346,000Mton
+2008-09,Maize,Cereals,317,730,000Mton
+2009-10,Maize,Cereals,376,887,000Mton
+2010-11,Maize,Cereals,409,1018,000Mton
+2011-12,Maize,Cereals,487,1298,000Mton
+2012-13,Maize,Cereals,580,1548,000Mton
+2013-14,Maize,Cereals,759,2124,000Mton
+2014-15,Maize,Cereals,804,2272,000Mton
+2015-16,Maize,Cereals,827,2446,000Mton
+2016-17,Maize,Cereals,963,3026,000Mton
+2018-19,Maize,Cereals,1100,3569,000Mton
+2019-20,Maize,Cereals,1166,4015,000Mton
+2020-21,Maize,Cereals,1186,4116,000Mton
+2021-22,Maize,Cereals,1182,4262,000Mton
+2022-23,Maize,Cereals,1227,4563,000Mton
+2023-24,Maize,Cereals,1272,4876,000Mton
+2010-11,Jowar,Cereals,0.49,0.25,000Mton
+2011-12,Jowar,Cereals,0.42,0.23,000Mton
+2012-13,Jowar,Cereals,0.33,0.15,000Mton
+2013-14,Jowar,Cereals,0.275,0.12,000Mton
+2014-15,Jowar,Cereals,0.235,0.478,000Mton
+2015-16,Jowar,Cereals,0.23,0.102,000Mton
+2016-17,Jowar,Cereals,0.207,0.092,000Mton
+2018-19,Jowar,Cereals,0.196,0.088,000Mton
+2019-20,Jowar,Cereals,0.164,0.077,000Mton
+2020-21,Jowar,Cereals,0.134,0.064,000Mton
+2021-22,Jowar,Cereals,0.1647,0.08,000Mton
+2022-23,Jowar,Cereals,0.1168,0.06032,000Mton
+2023-24,Jowar,Cereals,0.118,0.0161,000Mton
+2010-11,Barley,Cereals,1,0.48,000Mton
+2011-12,Barley,Cereals,1,0.32,000Mton
+2012-13,Barley,Cereals,1,0.32,000Mton
+2013-14,Barley,Cereals,1,0.266,000Mton
+2014-15,Barley,Cereals,1,0.307,000Mton
+2015-16,Barley,Cereals,1,0.317,000Mton
+2016-17,Barley,Cereals,1,0.287,000Mton
+2018-19,Barley,Cereals,0.471,0.157,000Mton
+2019-20,Barley,Cereals,0.361,0.124,000Mton
+2020-21,Barley,Cereals,0.46,0.174,000Mton
+2021-22,Barley,Cereals,0.453,0.172,000Mton
+2022-23,Barley,Cereals,0.4184,0.15918,000Mton
+2023-24,Barley,Cereals,0.395,0.195,000Mton
+2010-11,Bajra,Cereals,0.164,0.099,000Mton
+2011-12,Bajra,Cereals,0.149,0.087,000Mton
+2012-13,Bajra,Cereals,0.146,0.083,000Mton
+2013-14,Bajra,Cereals,0.101,0.058,000Mton
+2014-15,Bajra,Cereals,0.094,0.05,000Mton
+2015-16,Bajra,Cereals,0.089,0.048,000Mton
+2016-17,Bajra,Cereals,0.076,0.04,000Mton
+2018-19,Bajra,Cereals,0.071,0.038,000Mton
+2008-09,Masur,Pulses,175,61,000Mton
+2009-10,Masur,Pulses,191,72,000Mton
+2010-11,Masur,Pulses,205,80,000Mton
+2011-12,Masur,Pulses,213,80,000Mton
+2012-13,Masur,Pulses,222,93,000Mton
+2013-14,Masur,Pulses,308,157,000Mton
+2014-15,Masur,Pulses,359,167,000Mton
+2015-16,Masur,Pulses,382,158,000Mton
+2016-17,Masur,Pulses,382,169,000Mton
+2017-18,Masur,Pulses,385,177,000Mton
+2018-19,Masur,Pulses,345,161,000Mton
+2019-20,Masur,Pulses,349,177,000Mton
+2020-21,Masur,Pulses,186,186,000Mton
+2021-22,Masur,Pulses,357,191,000Mton
+2022-23,Masur,Pulses,344,197,000Mton
+2023-24,Masur,Pulses,309,185,000Mton
+2008-09,Moong,Pulses,54,18,000Mton
+2009-10,Moong,Pulses,57,20,000Mton
+2010-11,Moong,Pulses,68,19,000Mton
+2011-12,Moong,Pulses,91,26,000Mton
+2012-13,Moong,Pulses,87,25,000Mton
+2013-14,Moong,Pulses,97,32,000Mton
+2014-15,Moong,Pulses,96,33,000Mton
+2015-16,Moong,Pulses,105,37,000Mton
+2016-17,Moong,Pulses,102,35,000Mton
+2017-18,Moong,Pulses,93,34,000Mton
+2018-19,Moong,Pulses,102,34,000Mton
+2019-20,Moong,Pulses,109,37,000Mton
+2020-21,Moong,Pulses,109,41,000Mton
+2021-22,Moong,Pulses,114,42,000Mton
+2022-23,Moong,Pulses,113,46,000Mton
+2023-24,Moong,Pulses,121,45,000Mton
+2008-09,Gram,Pulses,20,7,000Mton
+2009-10,Gram,Pulses,21,7,000Mton
+2010-11,Gram,Pulses,20,7,000Mton
+2011-12,Gram,Pulses,19,7,000Mton
+2012-13,Gram,Pulses,18,7,000Mton
+2013-14,Gram,Pulses,17,6,000Mton
+2014-15,Gram,Pulses,17,7,000Mton
+2015-16,Gram,Pulses,15,6,000Mton
+2016-17,Gram,Pulses,15,6,000Mton
+2017-18,Gram,Pulses,12,5,000Mton
+2018-19,Gram,Pulses,12,5,000Mton
+2019-20,Gram,Pulses,11,5,000Mton
+2020-21,Gram,Pulses,11,5,000Mton
+2021-22,Gram,Pulses,11,5,000Mton
+2022-23,Gram,Pulses,10,5,000Mton
+2023-24,Gram,Pulses,10,5,000Mton
+2008-09,Mashkalai,Pulses,61,22,000Mton
+2009-10,Mashkalai,Pulses,79,28,000Mton
+2010-11,Mashkalai,Pulses,78,29,000Mton
+2011-12,Mashkalai,Pulses,77,24,000Mton
+2012-13,Mashkalai,Pulses,79,26,000Mton
+2013-14,Mashkalai,Pulses,88,31,000Mton
+2014-15,Mashkalai,Pulses,96,33,000Mton
+2015-16,Mashkalai,Pulses,98,35,000Mton
+2016-17,Mashkalai,Pulses,103,39,000Mton
+2017-18,Mashkalai,Pulses,109,41,000Mton
+2018-19,Mashkalai,Pulses,114,42,000Mton
+2019-20,Mashkalai,Pulses,90,34,000Mton
+2020-21,Mashkalai,Pulses,100,37,000Mton
+2021-22,Mashkalai,Pulses,102,39,000Mton
+2022-23,Mashkalai,Pulses,102,41,000Mton
+2023-24,Mashkalai,Pulses,98,39,000Mton
+2008-09,Arhar,Pulses,2,1,000Mton
+2009-10,Arhar,Pulses,2,1,000Mton
+2010-11,Arhar,Pulses,2,1,000Mton
+2011-12,Arhar,Pulses,1,0.44,000Mton
+2012-13,Arhar,Pulses,1,0.423,000Mton
+2013-14,Arhar,Pulses,1,1,000Mton
+2014-15,Arhar,Pulses,1,1,000Mton
+2015-16,Arhar,Pulses,1,1,000Mton
+2016-17,Arhar,Pulses,1,1,000Mton
+2017-18,Arhar,Pulses,1,0.465,000Mton
+2018-19,Arhar,Pulses,1,0.468,000Mton
+2019-20,Arhar,Pulses,1,0.458,000Mton
+2020-21,Arhar,Pulses,1,0.474,000Mton
+2021-22,Arhar,Pulses,1,0.454,000Mton
+2022-23,Arhar,Pulses,1,0.4225,000Mton
+2023-24,Arhar,Pulses,1,0.384,000Mton
+2009-10,Chilies,Condiments and Spices,215,109,000Mton
+2010-11,Chilies,Condiments and Spices,259,176,000Mton
+2011-12,Chilies,Condiments and Spices,240,126,000Mton
+2012-13,Chilies,Condiments and Spices,231,102,000Mton
+2013-14,Chilies,Condiments and Spices,222,110,000Mton
+2014-15,Chilies,Condiments and Spices,228,123,000Mton
+2015-16,Chilies,Condiments and Spices,252,130,000Mton
+2016-17,Chilies,Condiments and Spices,255,137,000Mton
+2017-18,Chilies,Condiments and Spices,255,141,000Mton
+2018-19,Chilies,Condiments and Spices,239,149,000Mton
+2019-20,Chilies,Condiments and Spices,239,158,000Mton
+2020-21,Chilies,Condiments and Spices,247,492,000Mton
+2021-22,Chilies,Condiments and Spices,243,625,000Mton
+2022-23,Chilies,Condiments and Spices,240,662,000Mton
+2023-24,Chilies,Condiments and Spices,245,748,000Mton
+2009-10,Onion,Condiments and Spices,291,872,000Mton
+2010-11,Onion,Condiments and Spices,316,1052,000Mton
+2011-12,Onion,Condiments and Spices,335,1159,000Mton
+2012-13,Onion,Condiments and Spices,332,1168,000Mton
+2013-14,Onion,Condiments and Spices,373,1387,000Mton
+2014-15,Onion,Condiments and Spices,419,1704,000Mton
+2015-16,Onion,Condiments and Spices,438,1735,000Mton
+2016-17,Onion,Condiments and Spices,459,1867,000Mton
+2017-18,Onion,Condiments and Spices,441,1738,000Mton
+2018-19,Onion,Condiments and Spices,426,1803,000Mton
+2019-20,Onion,Condiments and Spices,458,1954,000Mton
+2020-21,Onion,Condiments and Spices,480,2269,000Mton
+2021-22,Onion,Condiments and Spices,508,2517,000Mton
+2022-23,Onion,Condiments and Spices,503,2547,000Mton
+2023-24,Onion,Condiments and Spices,514,2917,000Mton
+2009-10,Garlic,Condiments and Spices,92,164,000Mton
+2010-11,Garlic,Condiments and Spices,104,209,000Mton
+2011-12,Garlic,Condiments and Spices,109,234,000Mton
+2012-13,Garlic,Condiments and Spices,105,224,000Mton
+2013-14,Garlic,Condiments and Spices,131,312,000Mton
+2014-15,Garlic,Condiments and Spices,141,346,000Mton
+2015-16,Garlic,Condiments and Spices,150,382,000Mton
+2016-17,Garlic,Condiments and Spices,164,425,000Mton
+2017-18,Garlic,Condiments and Spices,176,462,000Mton
+2018-19,Garlic,Condiments and Spices,177,466,000Mton
+2019-20,Garlic,Condiments and Spices,182,485,000Mton
+2020-21,Garlic,Condiments and Spices,180,502,000Mton
+2021-22,Garlic,Condiments and Spices,178,527,000Mton
+2022-23,Garlic,Condiments and Spices,177,544,000Mton
+2023-24,Garlic,Condiments and Spices,175,528,000Mton
+2011-12,Potato,Misc Cash Crops,1063,8205,Tons
+2012-13,Potato,Misc Cash Crops,1098,8603,Tons
+2013-14,Potato,Misc Cash Crops,1142,8950,Tons
+2014-15,Potato,Misc Cash Crops,1164,9254,Tons
+2015-16,Potato,Misc Cash Crops,1175,9474,Tons
+2016-17,Potato,Misc Cash Crops,1235,10216,Tons
+2017-18,Potato,Misc Cash Crops,1176,9725,Tons
+2018-19,Potato,Misc Cash Crops,1157,9655,Tons
+2019-20,Potato,Misc Cash Crops,1140,9606,Tons
+2020-21,Potato,Misc Cash Crops,1158,9887,Tons
+2021-22,Potato,Misc Cash Crops,1147,10144,Tons
+2022-23,Potato,Misc Cash Crops,1126,10432,Tons
+2023-24,Potato,Misc Cash Crops,1133,10601,Tons
+2011-12,Sweet Potato,Misc Cash Crops,61,253,Tons
+2012-13,Sweet Potato,Misc Cash Crops,67,263,Tons
+2013-14,Sweet Potato,Misc Cash Crops,64,260,Tons
+2014-15,Sweet Potato,Misc Cash Crops,62,255,Tons
+2015-16,Sweet Potato,Misc Cash Crops,61,259,Tons
+2016-17,Sweet Potato,Misc Cash Crops,64,263,Tons
+2017-18,Sweet Potato,Misc Cash Crops,59,247,Tons
+2018-19,Sweet Potato,Misc Cash Crops,60,236,Tons
+2019-20,Sweet Potato,Misc Cash Crops,61,246,Tons
+2020-21,Sweet Potato,Misc Cash Crops,66,280,Tons
+2021-22,Sweet Potato,Misc Cash Crops,72,304,Tons
+2022-23,Sweet Potato,Misc Cash Crops,69,298,Tons
+2023-24,Sweet Potato,Misc Cash Crops,69,302,Tons
+2011-12,Betelnut,Misc Cash Crops,39,244,Mton
+2012-13,Betelnut,Misc Cash Crops,37,238,Mton
+2013-14,Betelnut,Misc Cash Crops,37,214,Mton
+2014-15,Betelnut,Misc Cash Crops,29,186,Mton
+2015-16,Betelnut,Misc Cash Crops,30,277,Mton
+2016-17,Betelnut,Misc Cash Crops,42,247,Mton
+2018-19,Betelnut,Misc Cash Crops,96,317,Mton
+2019-20,Betelnut,Misc Cash Crops,97,329,Mton
+2020-21,Betelnut,Misc Cash Crops,115,346,Mton
+2021-22,Betelnut,Misc Cash Crops,97,334,Mton
+2022-23,Betelnut,Misc Cash Crops,97,342,Mton
+2023-24,Betelnut,Misc Cash Crops,98,356,Mton
+2011-12,Cotton,Misc Cash Crops,25,27,Bales
+2012-13,Cotton,Misc Cash Crops,31,20,Bales
+2013-14,Cotton,Misc Cash Crops,28,97,Bales
+2014-15,Cotton,Misc Cash Crops,33,41,Bales
+2015-16,Cotton,Misc Cash Crops,34,45,Bales
+2016-17,Cotton,Misc Cash Crops,33,43,Bales
+2017-18,Cotton,Misc Cash Crops,32,48,Bales
+2018-19,Cotton,Misc Cash Crops,49,148,Bales
+2019-20,Cotton,Misc Cash Crops,49,147,Bales
+2020-21,Cotton,Misc Cash Crops,39,102,Bales
+2021-22,Cotton,Misc Cash Crops,38,103,Bales
+2022-23,Cotton,Misc Cash Crops,37,97,Bales
+2023-24,Cotton,Misc Cash Crops,37,98,Bales
+2011-12,Hemp,Misc Cash Crops,0.1,1,Bales
+2012-13,Hemp,Misc Cash Crops,0.145,1,Bales
+2016-17,Hemp,Misc Cash Crops,0.091,23,Bales
+2017-18,Hemp,Misc Cash Crops,0.083,0.36,Bales
+2018-19,Hemp,Misc Cash Crops,0.077,0.319,Bales
+2019-20,Hemp,Misc Cash Crops,0.1,0.079,Bales
+2020-21,Hemp,Misc Cash Crops,0.058,0.668,Bales
+2021-22,Hemp,Misc Cash Crops,0.587,0.636,Bales
+2022-23,Hemp,Misc Cash Crops,0.0562,0.05439,Bales
+2023-24,Hemp,Misc Cash Crops,0.0555,0.05186,Bales
+2011-12,Mulberry,Misc Cash Crops,1,28,000ton
+2012-13,Mulberry,Misc Cash Crops,1,27,000ton
+2013-14,Mulberry,Misc Cash Crops,1,28,000ton
+2014-15,Mulberry,Misc Cash Crops,1,29,000ton
+2015-16,Mulberry,Misc Cash Crops,0.463,28,000ton
+2016-17,Mulberry,Misc Cash Crops,0.491,27,000ton
+2017-18,Mulberry,Misc Cash Crops,0.314,27,000ton
+2018-19,Mulberry,Misc Cash Crops,0.292,27,000ton
+2019-20,Mulberry,Misc Cash Crops,1,26,000ton
+2020-21,Mulberry,Misc Cash Crops,1,31,000ton
+2021-22,Mulberry,Misc Cash Crops,1,29,000ton
+2022-23,Mulberry,Misc Cash Crops,1,23,000ton
+2023-24,Mulberry,Misc Cash Crops,1,20,000ton
