@@ -38,4 +38,4 @@ Data coverage
 - Time period: historical data from 1972–2022
 - Geographic scope: all 64 districts of Bangladesh
 
-If you want, I can commit this simplified README to the repository for you.
+
